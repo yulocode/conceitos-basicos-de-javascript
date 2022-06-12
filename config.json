@@ -1,0 +1,18 @@
+{
+    "dependencies": {
+      "discord": "^0.8.2"
+    },
+    "name": "machining-learning",
+    "version": "1.0.0",
+    "main": "bot_discord.js",
+    "devDependencies": {},
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "description": "",
+    "prefix": "+",
+    "token": "OTg1MDEwMjcxOTUxMTM0NzYw.GGJ_Xm.LTQcR1eAq0VU_0bLP2e8-3CXBEspy1_MLOQNFU"
+}
